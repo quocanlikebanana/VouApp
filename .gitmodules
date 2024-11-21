@@ -1,0 +1,3 @@
+[submodule "VouApp-Event"]
+	path = VouApp-Event
+	url = https://github.com/quocanlikebanana/VouApp-Event.git
